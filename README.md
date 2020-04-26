@@ -5,12 +5,12 @@
   2. [Таблица 2](https://docs.google.com/spreadsheets/d/1Pm4vEQraNkAyOaumA9w477aLTGFTwsZq4Ln2IJIRRJw/edit?usp=sharing)
 
 ## Ссылки
-`http://ivantsovy.ru/queue/gs/cols` - полочить JSON представление таблицы 01.COLs.xlsx
-`http://ivantsovy.ru/queue/gs/supplyorders` - полочить JSON представление таблицы 02.Supply Orders.xlsx
-`http://ivantsovy.ru/queue/gs/operations` - полочить JSON представление таблицы 03.Operations.xlsx
-`http://ivantsovy.ru/queue/gs/resourcegroupperiod` - полочить JSON представление таблицы 04.ResourceGroupPeriod.xlsx
-`http://ivantsovy.ru/queue/gs/routrings` - полочить JSON представление таблицы 05.Routrings.xlsx
-`http://ivantsovy.ru/queue/gs/routringsteps` - полочить JSON представление таблицы 06.RoutringSteps.xlsx
+`https://ivantsovy.ru/queue/gs/cols` - полочить JSON представление таблицы 01.COLs.xlsx
+`https://ivantsovy.ru/queue/gs/supplyorders` - полочить JSON представление таблицы 02.Supply Orders.xlsx
+`https://ivantsovy.ru/queue/gs/operations` - полочить JSON представление таблицы 03.Operations.xlsx
+`https://ivantsovy.ru/queue/gs/resourcegroupperiod` - полочить JSON представление таблицы 04.ResourceGroupPeriod.xlsx
+`https://ivantsovy.ru/queue/gs/routrings` - полочить JSON представление таблицы 05.Routrings.xlsx
+`https://ivantsovy.ru/queue/gs/routringsteps` - полочить JSON представление таблицы 06.RoutringSteps.xlsx
 
 ## Установка
 
@@ -39,4 +39,4 @@ $ npm run start:prod
   - [Makhmood Sodikov](https://vk.me/mahmud_sodikov)
   - [Роман Беседин](https://vk.me/roman1024)
 
-- Website - [http://ivantsovy.ru](http://ivantsovy.ru/)
+- Website - [https://ivantsovy.ru](http://ivantsovy.ru/)
